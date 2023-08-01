@@ -1,0 +1,76 @@
+body {
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+    font-family: 'Fragment Core';
+  }
+
+  h1 {
+    text-align: center;
+    font-family: 'Freehand Signature';
+    font-size: 85px;
+  }
+
+  h6 {
+    text-align: center;
+    font-family: 'Freehand Signature';
+    font-size: 30px;
+  }
+  
+  h2, h3, h4 {
+    text-align: center;
+    font-family: 'Fragment Core';
+    font-size: 30px;
+  }  
+
+  p, a {
+    text-align: center;
+    font-family: 'Fragment Core';
+    font-size: x-large;
+    color: #7b3e79;
+  }  
+
+  ol, li {
+    font-family: 'Fragment Core';
+    font-size: x-large;
+  }
+
+  img {
+
+  }
+
+  /* Table */
+  
+  table {
+    height: 40%;
+    left: 10%;
+    margin: 20px auto;
+    overflow-y: scroll;
+    position: static;
+    width: 80%;
+  }
+  
+  thead th {
+    background: #88CCF1;
+    color: #FFF;
+    font-family: 'Fragment Core';
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  tr {
+    background: #f4f7f8;
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 5px;
+  }
+  
+  th, td {
+    font-family: 'Fragment Core';
+    font-weight: 400;
+    padding: 20px;
+    text-align: center;
+    width: auto;
+    font-size: 25px;
+  }
